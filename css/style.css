@@ -1,0 +1,13 @@
+
+body {
+  background-color: lightblue;
+}
+
+.center {
+	text-align: center;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
