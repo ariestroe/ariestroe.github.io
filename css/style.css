@@ -25,7 +25,7 @@ body {
 }
 
 .column {
-  float: center;
+  margin: 0 auto;
   width: 32.5%;
   padding: 20px; 
 }
