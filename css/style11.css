@@ -7,8 +7,9 @@ body {
   font-family: 'Playball', cursive;
   background-color: #48D1CC;
 
-  background-image: url("../images/pexels-pixabay-268415.jpg");
+  background-image: url("../images/Laughing-at-a-Christian.jpg");
   padding: 0px 75px;
+  background-position:-10px -150px;
   
 }
 h5 {
@@ -17,7 +18,10 @@ h5 {
   margin-top: -100px;
   position: absolute;
   text-align: center;
-  top: 50%;
+  color: #fff;
+  -webkit-text-stroke-width: 3px;
+  -webkit-text-stroke-color: black;
+  top: 75%;
   width: 100%;
   font-size: 280px;
 }
